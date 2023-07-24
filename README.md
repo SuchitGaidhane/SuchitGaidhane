@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/verma-ashish-k/verma-ashish-k/a3263a1cc0ce7021b733e9e223a55ba2d004f569/hello-world.gif)
-<h1 align="center">Hi 👋, I'm Suchit Gaidhane</h1>
+<h1 align="center">Hi, I'm Suchit Gaidhane</h1>
 <h3 align="center">A passionate frontend developer and C++ programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchitgaidhane&label=Profile%20views&color=0e75b6&style=flat" alt="suchitgaidhane" /> </p>
