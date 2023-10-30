@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing.**
 
-- 💬 Ask me about **DSA and Networking.**
+- 💬 Ask me about **DSA,Networking and Blockchain.**
 
 - 📫 How to reach me **suchitgaidhane@gmail.com**
 
